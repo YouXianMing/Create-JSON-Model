@@ -1,0 +1,191 @@
+{
+  "message" : 0.0237,
+  "cod" : "200",
+  "city" : {
+    "id" : 1816670,
+    "coord" : {
+      "lon" : 116.397232,
+      "lat" : 39.907501
+    },
+    "country" : "CN",
+    "name" : "Beijing",
+    "population" : 0
+  },
+  "cnt" : 7,
+  "list" : [
+    {
+      "clouds" : 88,
+      "humidity" : 83,
+      "dt" : 1446692400,
+      "speed" : 1.4,
+      "rain" : 0.24,
+      "snow" : 1.07,
+      "temp" : {
+        "night" : 274.39,
+        "min" : 274.39,
+        "eve" : 277.15,
+        "day" : 277.15,
+        "max" : 277.15,
+        "morn" : 277.15
+      },
+      "pressure" : 964.51,
+      "weather" : [
+        {
+          "id" : 600,
+          "main" : "Snow",
+          "icon" : "13d",
+          "description" : "light snow"
+        }
+      ],
+      "deg" : 83
+    },
+    {
+      "clouds" : 92,
+      "humidity" : 87,
+      "dt" : 1446778800,
+      "speed" : 1.27,
+      "snow" : 8.630000000000001,
+      "temp" : {
+        "night" : 269.29,
+        "min" : 269.29,
+        "eve" : 272.4,
+        "day" : 271.75,
+        "max" : 272.81,
+        "morn" : 271.01
+      },
+      "pressure" : 965.58,
+      "weather" : [
+        {
+          "id" : 601,
+          "main" : "Snow",
+          "icon" : "13d",
+          "description" : "snow"
+        }
+      ],
+      "deg" : 51
+    },
+    {
+      "clouds" : 36,
+      "humidity" : 82,
+      "dt" : 1446865200,
+      "speed" : 1.28,
+      "temp" : {
+        "night" : 272.66,
+        "min" : 266.34,
+        "eve" : 274.13,
+        "day" : 274.5,
+        "max" : 276.31,
+        "morn" : 266.34
+      },
+      "pressure" : 961.53,
+      "weather" : [
+        {
+          "id" : 800,
+          "main" : "Clear",
+          "icon" : "01d",
+          "description" : "sky is clear"
+        }
+      ],
+      "deg" : 309
+    },
+    {
+      "clouds" : 98,
+      "humidity" : 0,
+      "dt" : 1446951600,
+      "speed" : 1.39,
+      "rain" : 15.75,
+      "snow" : 0.44,
+      "temp" : {
+        "night" : 271.53,
+        "min" : 271.53,
+        "eve" : 275.97,
+        "day" : 277.44,
+        "max" : 277.44,
+        "morn" : 274.78
+      },
+      "pressure" : 979.58,
+      "weather" : [
+        {
+          "id" : 600,
+          "main" : "Snow",
+          "icon" : "13d",
+          "description" : "light snow"
+        }
+      ],
+      "deg" : 311
+    },
+    {
+      "clouds" : 0,
+      "humidity" : 0,
+      "dt" : 1447038000,
+      "speed" : 2.71,
+      "temp" : {
+        "night" : 265.81,
+        "min" : 265.81,
+        "eve" : 269.97,
+        "day" : 280.93,
+        "max" : 280.93,
+        "morn" : 270.34
+      },
+      "pressure" : 986.65,
+      "weather" : [
+        {
+          "id" : 800,
+          "main" : "Clear",
+          "icon" : "01d",
+          "description" : "sky is clear"
+        }
+      ],
+      "deg" : 341
+    },
+    {
+      "clouds" : 3,
+      "humidity" : 0,
+      "dt" : 1447124400,
+      "speed" : 1.09,
+      "temp" : {
+        "night" : 266.02,
+        "min" : 266.02,
+        "eve" : 269.19,
+        "day" : 279.7,
+        "max" : 279.7,
+        "morn" : 266.95
+      },
+      "pressure" : 990.08,
+      "weather" : [
+        {
+          "id" : 800,
+          "main" : "Clear",
+          "icon" : "01d",
+          "description" : "sky is clear"
+        }
+      ],
+      "deg" : 245
+    },
+    {
+      "clouds" : 14,
+      "humidity" : 0,
+      "dt" : 1447214400,
+      "speed" : 0.98,
+      "snow" : 0.04,
+      "temp" : {
+        "night" : 265.62,
+        "min" : 265.62,
+        "eve" : 269.19,
+        "day" : 279.6,
+        "max" : 279.6,
+        "morn" : 268.09
+      },
+      "pressure" : 993.89,
+      "weather" : [
+        {
+          "id" : 600,
+          "main" : "Snow",
+          "icon" : "13d",
+          "description" : "light snow"
+        }
+      ],
+      "deg" : 259
+    }
+  ]
+}
